@@ -1,1 +1,1 @@
-# mochachai
+# Quality Assurance with Chai
